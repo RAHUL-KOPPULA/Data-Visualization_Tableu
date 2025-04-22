@@ -39,7 +39,7 @@ The dataset contains retail sales information including:
 - Regional breakdown revealed **Central region** struggling with profitability
 - Compared high-sales vs low-profit zones
 
-### 4. **Top 10 Products by Profit**
+### 4. **Top Products by Profit**
 - Ranked products driving the most profit
 - Informed future stocking or marketing strategies
 
