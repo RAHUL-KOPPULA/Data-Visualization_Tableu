@@ -75,4 +75,4 @@ The dataset contains retail sales information including:
 ## Author
 **[KOPPULA RAHUL BABU]**  
 Aspiring Data Analyst | Tableau & Power BI Enthusiast  
-[LinkedIn Profile](#) (optional)
+[in/rahul-babu-koppula](#) (optional)
